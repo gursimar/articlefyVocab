@@ -1,0 +1,18 @@
+Where to fetch news articles
+http://www.quora.com/With-Google-News-API-going-away-what-is-the-best-option-for-company-news-search-feed
+http://www.quora.com/Is-there-any-News-search-api-that-also-provides-a-thumbnail-if-any-in-that-news-article-for-Commercial-use
+
+
+News API
+http://developer.nytimes.com/
+http://www.theguardian.com/open-platform
+
+
+
+Similar apps
+pulse
+flipboard
+
+
+Tarun's crawler
+http://www.crummy.com/software/BeautifulSoup/

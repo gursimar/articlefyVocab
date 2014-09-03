@@ -1,0 +1,36 @@
+Times Developer Network Application Registration
+Thank you for registering.
+Your API Keys:
+
+Best Sellers API
+Key: a194b363eb7437669c1de6ac887a2422:13:69754109
+
+Application: Private researcher Key: a194b363eb7437669c1de6ac887a2422:13:69754109 Status: active Registered: 5 seconds ago
+Key Rate Limits
+8	Calls per second
+5,000	Calls per day
+Community API
+Key: 6a456a0cf352aa8a4acac6f22b1546cb:11:69754109
+
+Application: Private researcher Key: 6a456a0cf352aa8a4acac6f22b1546cb:11:69754109 Status: active Registered: 5 seconds ago
+Key Rate Limits
+30	Calls per second
+5,000	Calls per day
+Most Popular API
+Key: ab2c84b1c3ada82d19b0e74c9d0024f7:6:69754109
+
+Application: Private researcher Key: ab2c84b1c3ada82d19b0e74c9d0024f7:6:69754109 Status: active Registered: 5 seconds ago
+Key Rate Limits
+8	Calls per second
+5,000	Calls per day
+
+
+
+
+-----------------------------
+
+Installing python module
+easy_install nytimesarticle
+
+
+
