@@ -24,13 +24,29 @@ Key Rate Limits
 8	Calls per second
 5,000	Calls per day
 
+Article Search API
+Key: e6cc8415ae478443a170e6755fd35759:4:69754109
 
+Application: Private researcher Key:
+e6cc8415ae478443a170e6755fd35759:4:69754109 Status: active Registered: 2
+seconds ago
+Key Rate Limits
+10	Calls per second
+10,000	Calls per day
+---------------------
 
+Article search API
+http://developer.nytimes.com/docs/read/article_search_api_v2
 
 -----------------------------
+STEPS
 
 Installing python module
 easy_install nytimesarticle
+Help: https://pypi.python.org/pypi/nytimesarticle/0.1.0
+
+Use API tool to check requests
+http://prototype.nytimes.com/gst/apitool/index.html
 
 
 
